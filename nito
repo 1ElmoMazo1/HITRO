@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap" rel="stylesheet">
+
+    <title>HITRO</title>
+
+</head>
+
+<body>
+    <header>
+        <div class="contenedor">
+            <h1 class="Logotipo">HITRO</h1>
+            <nav>
+                <a href="#" class="active">Inicio</a>
+                <a href="#">Mi Lista</a>
+                <a href="#">Suscribete</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="pelicula-principal">
+            <div class="contenedor">
+                <h1 class="titulo">Mortal Kombat</h1>
+                <p class="descripcion">
+                    Un boxeador fracasado descubre un secreto familiar que lo lleva a un torneo místico llamado Mortal
+                    Kombat donde se encuentra con un grupo de guerreros que luchan hasta la muerte para salvar los
+                    reinos del malvado hechicero Shang Tsung.
+                </p>
+                <a href="Reproducir.html" class="boton"><i class="fas fa-play-circle"></i>Reproducir</a>
+            </div>
+        </div>
+    </main>
+    <script src="https://kit.fontawesome.com/cece410e7d.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
